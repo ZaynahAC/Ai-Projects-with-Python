@@ -14,7 +14,6 @@ Each project demonstrates a specific AI concept with clear code, explanations, a
 | `CV Analyst` | Another one-liner description. |
 | `Image Classfifier Ai` | And so on... |
 
-*(Once you share your folder structure, I’ll fill these in properly.)*
 
 ---
 
